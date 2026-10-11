@@ -1,0 +1,10 @@
+.git
+.agents
+.claude
+.opencode
+.party
+**/.env
+**/.env.*
+**/node_modules
+**/__pycache__
+**/.pytest_cache

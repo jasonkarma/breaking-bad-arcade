@@ -1,0 +1,38 @@
+{
+  "commands": [
+    [
+      "node",
+      "--check",
+      "engine.js"
+    ],
+    [
+      "node",
+      "--check",
+      "lab-ui.js"
+    ],
+    [
+      "node",
+      "--check",
+      "street-ui.js"
+    ],
+    [
+      "node",
+      "--check",
+      "main.js"
+    ],
+    [
+      "node",
+      "--check",
+      "audio.js"
+    ],
+    [
+      "node",
+      "--test",
+      "engine.test.cjs",
+      "lab-ui.test.cjs",
+      "street-ui.test.cjs",
+      "main.test.cjs",
+      "audio.test.cjs"
+    ]
+  ]
+}

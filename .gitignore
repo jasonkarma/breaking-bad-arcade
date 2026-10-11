@@ -1,0 +1,4 @@
+# Party injects runtime skills and downloads session context here.
+/.claude/skills/
+/.agents/skills/
+/.skipper/sessions/
